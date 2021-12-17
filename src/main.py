@@ -148,7 +148,7 @@ else:
   print("no, it's a little lower than that")
 print("done")
 
-number=23
+number=18
 running = True
 
 while running:
@@ -167,6 +167,12 @@ print("done")
 
 
 
+
+
+for i in range (0,10):
+  print(i)
+else:
+  print("the for loop is over")
 
 
 
