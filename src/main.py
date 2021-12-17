@@ -176,6 +176,12 @@ else:
 
 
 
+a = "hola"
+for el in a:
+  print(el)
+
+
+
 
 
 
