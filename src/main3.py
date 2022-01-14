@@ -109,6 +109,7 @@ class Person:
     self.name = name
     self.age = age
 p1 = Person("Michela", 22)
+p2=Person("Antonio", 32)
 print(p1.name)
 print(p1.age)
 
